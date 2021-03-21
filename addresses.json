@@ -9,7 +9,7 @@
       "sUSD": {
         "address": "41a5938956d834061bd78d2a34c88ee7020c36da7d",
         "tokenAddress": "410e137dcc4bdb5bdbeb4dc7ea7f572f2dc683152d",
-        "setup": true
+        "setup": false
       },
       "sTRX": {
         "address": "414ad3664873cc88a50e25ec58516eb4c4f05f2b83",
