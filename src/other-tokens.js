@@ -31,9 +31,9 @@ module.exports = {
       decimals: 6,
     },
     {
-      address: "TJxU6TzuixbCagS3cXBpXHJGuqBY3awkJv",
-      code: "CSX",
-      decimals: 6,
+      address: "TFXX6gSzYFhy1wEbvZhS75G2g3JM1pgc8t",
+      code: "PSRS",
+      decimals: 8,
     },
   ],
 };
